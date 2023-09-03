@@ -1,0 +1,29 @@
+{
+  "id": "redovan-playlist",
+  "title": "Redovan playlist",
+  "version": "1.4.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Redovan",
+      "url": "https://discord.gg/yqRHgxr2F"
+    }
+  ],
+  "packs": [
+    {
+      "name": "plejlist",
+      "label": "Плэйлист",
+      "path": "packs/plejlist",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "manifest": "https://drive.google.com/file/d/1JLy0xlXOmoK98sGp4OmoXp4U7JFnNzSE/view",
+  "download": "https://drive.google.com/file/d/1Q4j3133RSHWqntsOcIT9oOHkDi-s4hA6/view"
+}
